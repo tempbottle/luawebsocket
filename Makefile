@@ -11,7 +11,7 @@ LOCALBASE=	/usr/local
 .endif
 
 NOLINT=	1
-CFLAGS+=	-I${LOCALBASE}/include -I../net
+CFLAGS+=	-I${LOCALBASE}/include
 
 LIBDIR=		${LOCALBASE}/lib/lua/5.2
 
