@@ -4,7 +4,7 @@ source = {
    url = "git://github.com/mbalmer/luawebsocket"
 }
 description = {
-   summary = "Network access for Lua",
+   summary = "A WebSocket implementation for Lua, written in C",
    homepage = "http://github.com/mbalmer/luawebsocket",
    license = "3-clause BSD",
 }
