@@ -42,7 +42,6 @@
 #include <openssl/rand.h>
 #include <openssl/ssl.h>
 
-#include "luanet.h"
 #include "luawebsocket.h"
 
 #include "websocket.h"
